@@ -1,0 +1,35 @@
+Node,x,y
+0, 0,10
+1, 10,10
+2, 0,0
+3, 10,0
+
+Element,Connectivity
+0, 1,2
+1, 1,4
+2, 3,2
+3, 4,2
+4, 3,4
+
+NumNodes, 4
+NumElements, 5
+
+PinDOFS, 4
+DOFS with Pins, 0,1,4,5
+
+Properties:
+Elastic, 1.0E4
+Area, 0.2
+
+Node DOFs
+0, 1, 2, 3
+0, 1, 6, 7
+4, 5, 2, 3
+6, 7, 2, 3
+4, 5, 6, 7
+
+ElemLengths, 10, 14.142135623730951, 14.142135623730951, 10, 10
+ElemThetas, 0, -0.7853981634, 0.7853981634, 1.570796327, 0
+
+ForceMatrix, 0,0,0,100,0,0,-50,0
+
