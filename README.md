@@ -4,4 +4,5 @@ This program will calculate the deflection of a truss structure with a given ori
 
 This program was created for my final project for AERO 306 - Structural Analysis II at Texas A&M University. It can be used to perform Finite Element Analysis for any truss, so long as it is correctly defined in the input file, which I will provide detailed instructions for. 
 
+This repository consists of the main code, the plotting code, 3 input files, and 3 problems and their results. 
 
