@@ -6,3 +6,5 @@ This program was created for my final project for AERO 306 - Structural Analysis
 
 This repository consists of the main code, the plotting code, 3 input files, and 3 problems and their results. 
 
+
+***The plotting code was generously provided by Professor Hartl and graciously supplied by our classmate, Miracle. His code for plotting the trusses and their deformation was invaluable for me as a visual learner. It is 100% accredited to him and his hard work.
